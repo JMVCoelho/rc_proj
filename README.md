@@ -21,6 +21,6 @@ Only runs in UNIX based OS since we use fork().
 
 ### Authors
 
-João Coelho
-Rui Alves
+João Coelho\
+Rui Alves\
 Manuel Rego
