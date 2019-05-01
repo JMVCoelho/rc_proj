@@ -18,3 +18,9 @@ The BS servers details connected to the CS are stored in files in the directory 
 Therefore, whenever the CS is started, it will delete all files in its directory except files that have names starting with 'user', 'CS', 'BS', 'make', 'readme' or 'proj'.
 
 Only runs in UNIX based OS since we use fork().
+
+### Authors
+
+João Coelho
+Rui Alves
+Manuel Rego
